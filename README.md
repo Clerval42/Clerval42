@@ -12,6 +12,3 @@ Welcome to my GitHub profile! I'm a Computer Engineering student.
 - **Programming Languages**: Java, Python, JavaScript
 - **Tools**: Git, GitHub, Visual Studio Code, Docker
 - **Operating Systems**: Linux, Windows
-
-## 🧑‍💻 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
