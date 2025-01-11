@@ -10,5 +10,5 @@ Welcome to my GitHub profile! I'm a Computer Engineering student.
 
 ## 🛠️ Technologies & Tools:
 - **Programming Languages**: Java, Python, JavaScript
-- **Tools**: Git, GitHub, Visual Studio Code, Docker
+- **Tools**: Git, GitHub, Visual Studio Code
 - **Operating Systems**: Linux, Windows
